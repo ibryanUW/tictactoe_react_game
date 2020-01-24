@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -52,17 +59,37 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579901746553</updated>
-      <workItem from="1579901752008" duration="783000" />
+      <workItem from="1579901752008" duration="1216000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit to master branch.">
+      <created>1579905736876</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579905736876</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit to master branch." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit to master branch." />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="251" y="2" key="CommitChangelistDialog2" timestamp="1579905736594">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="251" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1579905736594" />
     <state x="149" y="39" key="SettingsEditor" timestamp="1579905373698">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="149" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1579905373698" />
+    <state x="240" y="128" key="Vcs.Push.Dialog.v2" timestamp="1579905807253">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="128" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1579905807253" />
   </component>
 </project>
