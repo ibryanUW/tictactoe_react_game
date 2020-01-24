@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a08e6d2d-48be-453f-a3f3-1942955fd00a" name="Default Changelist" comment="" />
+    <list default="true" id="a08e6d2d-48be-453f-a3f3-1942955fd00a" name="Default Changelist" comment="Initial commit to master branch.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ttt_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameTitle.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WrJOIc64Hm3aQZwZk16mmo1rIp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -59,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579901746553</updated>
-      <workItem from="1579901752008" duration="1216000" />
+      <workItem from="1579901752008" duration="2882000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit to master branch.">
       <created>1579905736876</created>
@@ -68,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579905736876</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit to master branch.">
+      <created>1579905817237</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579905817237</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,17 +92,33 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit to master branch." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="251" y="2" key="CommitChangelistDialog2" timestamp="1579905736594">
+    <state x="251" y="2" key="CommitChangelistDialog2" timestamp="1579907582515">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="251" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1579905736594" />
+    <state x="251" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1579907582515" />
+    <state width="1259" height="133" key="GridCell.Tab.0.bottom" timestamp="1579907587330">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="133" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579907587330" />
+    <state width="1259" height="133" key="GridCell.Tab.0.center" timestamp="1579907587329">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="133" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579907587329" />
+    <state width="1259" height="133" key="GridCell.Tab.0.left" timestamp="1579907587328">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="133" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579907587328" />
+    <state width="1259" height="133" key="GridCell.Tab.0.right" timestamp="1579907587329">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1259" height="133" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579907587329" />
     <state x="149" y="39" key="SettingsEditor" timestamp="1579905373698">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="149" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1579905373698" />
-    <state x="240" y="128" key="Vcs.Push.Dialog.v2" timestamp="1579905807253">
+    <state x="240" y="128" key="Vcs.Push.Dialog.v2" timestamp="1579906153724">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="240" y="128" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1579905807253" />
+    <state x="240" y="128" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1579906153724" />
   </component>
 </project>
