@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a08e6d2d-48be-453f-a3f3-1942955fd00a" name="Default Changelist" comment="Initial commit to master branch.">
+    <list default="true" id="a08e6d2d-48be-453f-a3f3-1942955fd00a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameBoard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameCell.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ttt_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameTitle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameTitle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameTitle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +70,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579901746553</updated>
-      <workItem from="1579901752008" duration="2882000" />
+      <workItem from="1579901752008" duration="3364000" />
+      <workItem from="1580227957717" duration="667000" />
+      <workItem from="1580239514216" duration="11379000" />
+      <workItem from="1580381072555" duration="138000" />
+      <workItem from="1580469176963" duration="835000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit to master branch.">
       <created>1579905736876</created>
@@ -81,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579905817237</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="GameTitle file added.&#10;ttt_app.js file removed.&#10;&#10;Game title changed and updated.">
+      <created>1579907807537</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579907807537</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,29 +105,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit to master branch." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit to master branch." />
+    <MESSAGE value="GameTitle file added.&#10;ttt_app.js file removed.&#10;&#10;Game title changed and updated." />
+    <option name="LAST_COMMIT_MESSAGE" value="GameTitle file added.&#10;ttt_app.js file removed.&#10;&#10;Game title changed and updated." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="251" y="2" key="CommitChangelistDialog2" timestamp="1579907582515">
+    <state x="251" y="2" key="CommitChangelistDialog2" timestamp="1579907807325">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="251" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1579907582515" />
-    <state width="1259" height="133" key="GridCell.Tab.0.bottom" timestamp="1579907587330">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="251" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1579907807325" />
+    <state width="1259" height="127" key="GridCell.Tab.0.bottom" timestamp="1580253597547">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579907587330" />
-    <state width="1259" height="133" key="GridCell.Tab.0.center" timestamp="1579907587329">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1259" height="133" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1579908417571" />
+    <state width="1259" height="127" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1580253597547" />
+    <state width="1259" height="127" key="GridCell.Tab.0.center" timestamp="1580253597547">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579907587329" />
-    <state width="1259" height="133" key="GridCell.Tab.0.left" timestamp="1579907587328">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1259" height="133" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1579908417570" />
+    <state width="1259" height="127" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1580253597547" />
+    <state width="1259" height="127" key="GridCell.Tab.0.left" timestamp="1580253597546">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579907587328" />
-    <state width="1259" height="133" key="GridCell.Tab.0.right" timestamp="1579907587329">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state width="1259" height="133" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1579908417569" />
+    <state width="1259" height="127" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1580253597546" />
+    <state width="1259" height="127" key="GridCell.Tab.0.right" timestamp="1580253597547">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
-    <state width="1259" height="133" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579907587329" />
+    <state width="1259" height="133" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1579908417570" />
+    <state width="1259" height="127" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1580253597547" />
     <state x="149" y="39" key="SettingsEditor" timestamp="1579905373698">
       <screen x="0" y="0" width="1280" height="800" />
     </state>

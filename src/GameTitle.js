@@ -1,9 +1,12 @@
 import React from 'react';
 
-export default function GameTitle(props){
+// A simple function method that takes no parameters and displays only the title for the game.
+function GameTitle() {
     return (
-        <header id="gameTitle">
-            <h3>Tic Tac Toe</h3>
-        </header>
+        <div className="game-title">
+            <header id="gameTitle">
+                <h3>Tic Tac Toe</h3>
+            </header>
+        </div>
     );
 }
