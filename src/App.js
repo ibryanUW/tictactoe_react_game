@@ -10,23 +10,9 @@ import Game from "./Game";
 // title, board with cells, message, and restart/reset button.
 function App() {
   return (
-    // <div className="App">
-    //   <header className="App-header">
-    //     <img src={logo} className="App-logo" alt="logo" />
-    //     <p>
-    //       Edit <code>src/App.js</code> and save to reload.
-    //     </p>
-    //     <a
-    //       className="App-link"
-    //       href="https://reactjs.org"
-    //       target="_blank"
-    //       rel="noopener noreferrer"
-    //     >
-    //       Learn React
-    //     </a>
-    //   </header>
-    // </div>
      <div id="App">
+         // This is a component.
+         // It's contents are defined in Game.js.
        <Game/>
      </div>
   );

@@ -10,3 +10,5 @@ function GameTitle() {
         </div>
     );
 }
+
+export default GameTitle;

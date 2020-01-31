@@ -5,19 +5,15 @@ import GameBoard from './GameBoard';
 import GameTitle from './GameTitle';
 
 //
-export default class Game extends React.Component {
-
-    constructor(props) {
-        super(props);
-    }
-
-
-    render() {
-        return (
-          <div id="game">
-              <GameTitle/>
-              <GameBoard/>
-          </div>
-        );
-    };
+function Game() {
+    return (
+        <div id="game">
+            // Load game components needed for the presentation and functionality of the game.
+            <GameTitle/>
+            <GameBoard/>
+        </div>
+    );
 }
+
+export default Game;
+
