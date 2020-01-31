@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a08e6d2d-48be-453f-a3f3-1942955fd00a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Game.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameBoard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameCell.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GameTitle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameTitle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-    </list>
+    <list default="true" id="a08e6d2d-48be-453f-a3f3-1942955fd00a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +65,7 @@
       <workItem from="1580227957717" duration="667000" />
       <workItem from="1580239514216" duration="11379000" />
       <workItem from="1580381072555" duration="138000" />
-      <workItem from="1580469176963" duration="835000" />
+      <workItem from="1580469176963" duration="936000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit to master branch.">
       <created>1579905736876</created>
@@ -97,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579907807537</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="No significant changes">
+      <created>1580495543654</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580495543654</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,13 +104,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit to master branch." />
     <MESSAGE value="GameTitle file added.&#10;ttt_app.js file removed.&#10;&#10;Game title changed and updated." />
-    <option name="LAST_COMMIT_MESSAGE" value="GameTitle file added.&#10;ttt_app.js file removed.&#10;&#10;Game title changed and updated." />
+    <MESSAGE value="No significant changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="No significant changes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="251" y="2" key="CommitChangelistDialog2" timestamp="1579907807325">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="251" y="23" key="CommitChangelistDialog2" timestamp="1580495543253">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="251" y="2" key="CommitChangelistDialog2/0.0.1280.800@0.0.1280.800" timestamp="1579907807325" />
+    <state x="251" y="23" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1580495543253" />
     <state width="1259" height="127" key="GridCell.Tab.0.bottom" timestamp="1580253597547">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -141,5 +141,9 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="240" y="128" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1579906153724" />
+    <state x="445" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580495737805">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="445" y="335" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.777@0.23.1280.777" timestamp="1580495737805" />
   </component>
 </project>
